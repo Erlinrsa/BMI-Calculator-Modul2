@@ -39,6 +39,7 @@ public class Adult extends BMIPerson {
         System.out.println("BMI: " + String.format("%.2f", bmiValue));
 
         getCategory(bmiValue);
+
     }
 
     /**
